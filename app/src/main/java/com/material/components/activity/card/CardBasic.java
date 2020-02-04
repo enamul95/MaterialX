@@ -18,6 +18,7 @@ public class CardBasic extends AppCompatActivity {
         setContentView(R.layout.activity_card_basic);
 
         initToolbar();
+        //git
     }
 
     private void initToolbar() {
